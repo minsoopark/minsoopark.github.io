@@ -1,6 +1,5 @@
 .wrapper-body {
   padding-top: 30px;
-  padding-left: 40px;
 }
 
 .img-profile {
@@ -8,6 +7,10 @@
   height: 200px;
   margin-left: auto;
   margin-right: auto;
+}
+
+.wrapper-info {
+  padding-left: 40px;
 }
 
 .info-title {
