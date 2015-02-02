@@ -1,0 +1,34 @@
+body {
+  height: 100%;
+}
+
+.wrapper-body {
+  padding-top: 30px;
+}
+
+.img-profile {
+  width: 200px;
+  height: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.wrapper-name {
+  text-align: right;
+  margin-top: 40px;
+  margin-right: 40px;
+}
+
+.wrapper-profile {
+  padding-left: 40px;
+}
+
+.wrapper-profile-image {
+  width: 100%;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0px;
+}

@@ -6,14 +6,20 @@
     <title>BBarm</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" media="screen and (min-width: 701px)" href="css/style.css">
+    <link rel="stylesheet" media="screen and (max-width: 700px)" href="css/style_mobile.css">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
   </head>
   <body>
     <div class="wrapper-body">
-      <img src="assets/profile.jpg" class="img-circle img-profile">
+      <div class="wrapper-profile-image">
+        <img src="assets/profile.jpg" class="img-circle img-profile">
+      </div>
       <div class="wrapper-profile">
-        <h1>Minsoo Park <small>Software Engineer</small></h1>
+        <div class="wrapper-name">
+          <h1>Minsoo Park</h1>
+          <span class="lead">Software Engineer</span>
+        </div>
         <hr class="divider">
         <ul>
           <li>
