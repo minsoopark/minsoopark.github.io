@@ -1,0 +1,23 @@
+body {
+  height: 100%;
+}
+
+.wrapper-body {
+  padding-top: 30px;
+  padding-left: 40px;
+}
+
+.img-profile {
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin-right: 30px;
+}
+
+.wrapper-profile {
+
+}
+
+ul {
+  list-style-type: none;
+}
