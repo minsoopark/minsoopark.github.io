@@ -1,0 +1,22 @@
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.info-section {
+  margin-bottom: 40px;
+}
+
+.info-item {
+  margin-bottom: 30px;
+}
+
+.info-detail {
+  margin-left: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0px;
+}

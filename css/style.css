@@ -1,7 +1,3 @@
-body {
-  height: 100%;
-}
-
 .wrapper-body {
   padding-top: 30px;
   padding-left: 40px;
@@ -14,8 +10,12 @@ body {
   margin-right: 30px;
 }
 
-.wrapper-profile {
+.wrapper-info {
+  margin-left: 260px;
+}
 
+.info-section {
+  margin-bottom: 40px;
 }
 
 ul {

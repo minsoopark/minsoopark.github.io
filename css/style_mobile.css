@@ -1,9 +1,6 @@
-body {
-  height: 100%;
-}
-
 .wrapper-body {
   padding-top: 30px;
+  padding-left: 40px;
 }
 
 .img-profile {
@@ -13,22 +10,13 @@ body {
   margin-right: auto;
 }
 
-.wrapper-name {
+.info-title {
   text-align: right;
   margin-top: 40px;
   margin-right: 40px;
 }
 
-.wrapper-profile {
-  padding-left: 40px;
-}
-
 .wrapper-profile-image {
   width: 100%;
   text-align: center;
-}
-
-ul {
-  list-style-type: none;
-  padding-left: 0px;
 }
