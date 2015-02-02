@@ -1,10 +1,16 @@
-.wrapper-body {
-  padding-top: 30px;
+.img-blurred-background {
+  z-index: -1;
+  position: absolute;
+  width: 100%;
+  height: 200px;
+  background-size: cover;
+  background-image: url("../assets/profile-blur.jpg");
 }
 
 .img-profile {
   width: 200px;
   height: 200px;
+  margin-top: 60px;
   margin-left: auto;
   margin-right: auto;
 }

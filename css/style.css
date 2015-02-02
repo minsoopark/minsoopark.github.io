@@ -3,10 +3,17 @@
   padding-left: 40px;
 }
 
+.wrapper-profile-image {
+  float: left;
+}
+
+.img-blurred-background {
+  display: none;
+}
+
 .img-profile {
   width: 200px;
   height: 200px;
-  float: left;
   margin-right: 30px;
 }
 
