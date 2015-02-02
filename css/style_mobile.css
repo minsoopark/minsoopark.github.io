@@ -16,7 +16,7 @@
 }
 
 .wrapper-info {
-  padding-left: 40px;
+  padding-left: 25px;
 }
 
 .info-title {
@@ -28,4 +28,8 @@
 .wrapper-profile-image {
   width: 100%;
   text-align: center;
+}
+
+.about-list {
+  padding-right: 25px;
 }

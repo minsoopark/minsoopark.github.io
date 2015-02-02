@@ -1,11 +1,29 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
 body {
+  width: 100%;
   height: 100%;
   margin: 0;
   padding: 0;
 }
 
+a {
+  color: #000;
+  border-bottom: dotted 1px #aaa;
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
 .info-section {
-  margin-bottom: 40px;
+  margin-bottom: 25px;
+  overflow: hidden;
 }
 
 .info-item {
@@ -16,7 +34,19 @@ body {
   margin-left: 25px;
 }
 
-ul {
-  list-style-type: none;
-  padding-left: 0px;
+.activity-icon {
+  margin-bottom: 20px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.activity-sublist {
+  margin-bottom: 20px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.about-row {
+  color: #666;
+  line-height: 1.8;
 }
