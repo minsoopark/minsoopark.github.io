@@ -1,3 +1,7 @@
+.wrapper-nav-bar {
+  display: none;
+}
+
 .wrapper-body {
   padding-top: 30px;
   padding-left: 40px;
