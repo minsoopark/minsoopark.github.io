@@ -50,6 +50,10 @@ ul {
   vertical-align: middle;
 }
 
+.about-list {
+  padding-right: 25px;
+}
+
 .about-row {
   color: #666;
   line-height: 1.8;
