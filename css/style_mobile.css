@@ -10,10 +10,6 @@
   border-bottom: 1px solid rgba(0, 0, 0, 0.08);
 }
 
-.wrapper-stats {
-  display: none;
-}
-
 .social-item {
   margin-left: 5px;
   position: relative;
@@ -59,5 +55,9 @@
 }
 
 .activity-list {
+  padding-right: 25px;
+}
+
+.about-list {
   padding-right: 25px;
 }

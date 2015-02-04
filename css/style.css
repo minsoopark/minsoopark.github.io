@@ -8,34 +8,7 @@
 }
 
 .wrapper-profile-image {
-  position: fixed;
   float: left;
-}
-
-.wrapper-stats {
-  margin-top: 30px;
-}
-
-.stat-item-name {
-  display: table-cell;
-  padding-top: 10px;
-  padding-left: 2px;
-}
-
-.stat-strength {
-  color: #e74c3c;
-}
-
-.stat-dexterity {
-  color: #3498db;
-}
-
-.stat-intelligence {
-  color: #2ecc71;
-}
-
-.stat-luck {
-  color: #f1c40f;
 }
 
 .img-blurred-background {
