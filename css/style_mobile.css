@@ -57,3 +57,8 @@
 .activity-list {
   padding-right: 25px;
 }
+
+.img-speech {
+  width: 240px;
+  border-radius: 16px;
+}

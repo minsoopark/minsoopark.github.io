@@ -32,3 +32,8 @@
 ul {
   list-style-type: none;
 }
+
+.img-speech {
+  width: 300px;
+  border-radius: 16px;
+}
