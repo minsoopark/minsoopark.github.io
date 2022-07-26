@@ -39,6 +39,11 @@
   box-shadow: 0px 2px 48px rgba(0, 0, 0, 0.4);
 }
 
+.img-speech {
+  width: 240px;
+  border-radius: 16px;
+}
+
 .wrapper-info {
   padding-left: 25px;
 }
@@ -56,9 +61,4 @@
 
 .activity-list {
   padding-right: 25px;
-}
-
-.img-speech {
-  width: 240px;
-  border-radius: 16px;
 }
