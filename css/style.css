@@ -21,6 +21,11 @@
   margin-right: 30px;
 }
 
+.img-speech {
+  width: 300px;
+  border-radius: 16px;
+}
+
 .wrapper-info {
   margin-left: 260px;
 }
@@ -31,9 +36,4 @@
 
 ul {
   list-style-type: none;
-}
-
-.img-speech {
-  width: 300px;
-  border-radius: 16px;
 }
