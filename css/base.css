@@ -25,6 +25,11 @@ ul.info-list {
   padding-left: 0px;
 }
 
+ul.activity-sublist {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
 .info-career-description-title {
   margin-left: 25px;
   text-decoration: underline;
