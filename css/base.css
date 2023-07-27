@@ -20,9 +20,18 @@ body {
   text-decoration: none;
 }
 
-ul {
+ul.info-list {
   list-style-type: none;
   padding-left: 0px;
+}
+
+.info-career-description-title {
+  margin-left: 25px;
+  text-decoration: underline;
+}
+
+li.info-career-description-list-item:not(:last-child) {
+  margin-bottom: 3px;
 }
 
 .info-section {
